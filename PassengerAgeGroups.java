@@ -32,3 +32,11 @@ public class PassengerAgeGroups{
         
     }
 }
+//output//
+age group       Count
+0-10            1
+10-20           2
+20-30           2
+30-40           2
+40-50           2
+50+             2
